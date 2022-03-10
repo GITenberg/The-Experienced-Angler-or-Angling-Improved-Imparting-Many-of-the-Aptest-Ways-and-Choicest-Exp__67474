@@ -1,11 +1,16 @@
 _repo: The-Experienced-Angler-or-Angling-Improved-Imparting-Many-of-the-Aptest-Ways-and-Choicest-Exp__67474
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67474-h/images/cover.jpg
 creator:
   author:
     agent_name: Venables, Robert
     gutenberg_agent_id: '54285'
     url: http://www.gutenberg.org/2009/agents/54285
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67474#The-Experienced-Angler-or-Angling-Improved-Imparting-Many-of-the-Aptest-Ways-and-Choicest-Exp_
 gutenberg_issued: '2022-02-22'
 identifiers:
   gutenberg: '67474'
